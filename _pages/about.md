@@ -12,6 +12,7 @@ Hi there! This is Yuqing Li’s home on the web!
 I am a second-year Computer Engineering Master’s student at [Tandon School of Engineering](https://engineering.nyu.edu/), [New York University](https://www.nyu.edu/). Before joining NYU, I had my B.E in Electrical Engineering at [Wuhan University of Technology](https://www.whut.edu.cn/).
 
 Currently I am actively seeking a full-time software engineer position starts from Jun 2020.
+
 I have strong skills of objective-oriented design, data structure and algorithm. Proficient in Java and Python programming. A wide range of project experience on web development based on Tomcat, Spring, Hibernate, AWS and React. Experienced in iOS mobile applications development using objective-C.
 
 
@@ -19,8 +20,11 @@ Technical skills
 ======
 
 • Programming Languages: Java, Python, MATLAB, SQL, Objective-C, JavaScript 
+
 • Databases and Cloud: MySQL, AWS EC2, AWS Lambda
+
 • Web/Mobile development: Java Servlet, HTML, CSS, React, Firebase, iOS
+
 
 <!-- Getting started
 ======
