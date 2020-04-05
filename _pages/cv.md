@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For more specific information, you can find it here: [CV.pdf](https://crystalliyu.github.io/files/Yuqing_Li_CV.pdf)
+For more specific information, you can find it here: [Yuqing_Li_CV.pdf](https://crystalliyu.github.io/files/Yuqing_Li_CV.pdf)
 
 Education
 ======
