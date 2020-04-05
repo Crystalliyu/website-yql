@@ -1,36 +1,33 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "iOS developer at Tencent Technology"
 permalink: /work/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- iOS developer at Tencent Technology -->
+<!-- ====== -->
+* 2018.06 - 2018.09
+* Software development internship
+* [Tencent](https://www.tencent.com/en-us/about.html), ShenZhen, China
 
-Work experience
+Position
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Worked in a team of ten to design and develop Boodo iOS application which is a anime & comic reading app with 900,000 daily active users(DAUs).
+* Developed features: 
+  * Optimized image brower, improved user experience.
+  * Modified video player, revised style of the post.
+  * Created the comment module of video player.
+  * Responsible for UI revision of version 2.0 of Boodo.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fixed problems:
+  * Fixed the thread problem of login module to significantly improve login speed by 1.2 seconds.
+  * Modified the logic of checkin.
+  * Choose the best part of pictures in the post to show as the cover of post.
   
-Skills
+Result
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+<br/><img src='/images/boodo_1.png'>
+<br/><img src='/images/boodo_2.png'>
