@@ -2,7 +2,6 @@
 title: "JobHunter - AWS based Job Recommendation System"
 excerpt: "Job Hunter is a job recommendation system which based on AWS, provides company and position informations retrieved from GitHub API for users to search and apply jobs.
 
-
 <br/><img src='/images/jobHunter.png'>"
 collection: projects
 ---
