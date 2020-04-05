@@ -1,15 +1,23 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /personal/
+title: "Personal"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+I am a kind-hearted person and have a good view on life. I enjoy sharing things and talking to people. In my spare time, I have a wide range of hobbies to relax myself, like painting, K-pop dancing, light music, traveling and writing something on the social media.
 
-* Basic config options: _config.yml
+## My travel memories
+
+<br/><img src='/images/travel_1.png'>
+<br/><img src='/images/travel_2.png'>
+<br/><img src='/images/travel_3.png'>
+
+
+
+<!-- * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
@@ -18,7 +26,11 @@ redirect_from:
   * _posts/
   * _teaching/
   * _talks/
-* Footer: _includes/footer.html
+ -->
+
+
+
+<!-- * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
@@ -199,4 +211,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
