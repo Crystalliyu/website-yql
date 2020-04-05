@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "JobHunter - AWS based Job Recommendation System"
+excerpt: "Job Hunter is a job recommendation system which based on AWS, provides company and position informations retrieved from GitHub API for users to search and apply jobs.<br/><img src='/images/jobHunter.png'>"
 collection: projects
 ---
 
