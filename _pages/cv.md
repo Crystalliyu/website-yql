@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For more specific information, you can find it here: [CV.pdf](https://academicpages.github.io/files/paper1.pdf)
+For more specific information, you can find it here: [CV.pdf](https://crystalliyu.github.io/files/Yuqing_Li_CV.pdf)
 
 Education
 ======
@@ -33,9 +33,9 @@ Skills
 * Databases and Cloud: MySQL, AWS EC2, AWS Lambda
 * Web/Mobile development: Java Servlet, HTML, CSS, React, Firebase, iOS
 
-Resume
+<!-- Resume
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
