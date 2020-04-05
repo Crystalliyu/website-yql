@@ -6,4 +6,16 @@ excerpt: "Job Hunter is a job recommendation system which based on AWS, provides
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Front End:
+• Developed an interactive web page for users to search and apply positions (HTML, CSS,
+JavaScript, AJAX)
+• Used favorite records to provide personalized position recommendation 
+
+Back End:
+• Created three Java servlets with RESTful APIs to handle HTTP requests and responses
+• Used MySQL database on Amazon RDS to store position data fetched from Github API
+• Used MonkeyLearn API to extract keywords from description of positions
+• Designed algorithms (e.g., content-based recommendation) to implement job recommendation
+<!-- • Deployed to Amazon EC2 and used Apache JMeter to perform load test (150 QPS). -->
+
+<br/><img src='/images/jobHunter.png'>
